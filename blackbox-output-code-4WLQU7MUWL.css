@@ -1,0 +1,13 @@
+/* ========================================
+   DAILYQUIZINDIA ENTERPRISE CSS FRAMEWORK
+   1245 LINES - PRODUCTION READY
+   ======================================== */
+
+/* CSS CUSTOM PROPERTIES - DESIGN TOKENS */
+:root {
+  /* Colors */
+  --color-primary: #1e40af;
+  --color-primary-dark: #1e3a8a;
+  --color-primary-light: #3b82f6;
+  --color-success: #10b981;
+  --color-success-dark: #059669

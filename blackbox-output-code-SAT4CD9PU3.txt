@@ -1,0 +1,6 @@
+{
+  "name": "DailyQuizIndia - Free JEE NEET Mock Tests",
+  "short_name": "DQI",
+  "description": "India's #1 Free JEE/NEET Mock Test Platform. 50K+ students daily practice.",
+  "start_url": "/",
+  "display": "standalone
